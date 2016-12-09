@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Pokedex QR Codes</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- Custom Strings For App -->
+    <string name="loading_title">Loading</string>
+    <string name="loading_please_wait">Please wait while loading data!</string>
+    <string name="share_text">Get all the Pokemon QR Codes for Sun/Moon!  https://play.google.com/store/apps/details?id=com.leonelatencio.pokedexqr</string>
+    <string name="pokedex_qr_codes">Pokedex QR Codes</string>
+    <string name="for_pokemon_sun_moon">For Pokemon Sun/Moon</string>
+    <string name="qr_code">QR Code</string>
+    <string name="background_image">Background Image</string>
+    <string name="share_this_app">Share This App!</string>
+    <string name="my_blog">My Blog</string>
+    <string name="pokemon_qr_codes">Pokémon QR Codes</string>
+    <string name="welcome_text">Welcome to the Alolan Pokedex</string>
+    <string name="navigate_menu">You can use left menu to navigate the Pokedex</string>
+    <string name="search">Search</string>
+    <string name="search_title">Search Pokémon…</string>
+    <string name="search_hint">Shiny Pikachu</string>
+    <string name="search_results">Search results</string>
+    <string name="location_information">Location Information</string>
+    <string name="location_missing">There is no location available yet.</string>
+    <string name="stats_information">Statistics</string>
+    <string name="stats_missing">No Stats Available</string>
+    <string name="notes_information">Additional Notes</string>
+    <string name="notes_missing">Notes not available…</string>
+
+    <string name="desc1_header">QR Scanner</string>
+    <string name="desc1_body">"The QR Scanner is a new feature that can be found in the main menu of the game. Here, you can scan various QR Codes and add the Pokémon as 'Seen' on your Pokédex. However, you can't just scan every single QR code instantly. Instead, a scan regenerates 1 every 2 hours, and the game stores up to 10 scans for you to use at any one time. All QR Codes that exist can be scanned by the game, being read as Wonder Codes and giving you a random Pokémon to your Pokédex.\n\n When you scan a QR Code, you will get 10 points and for every 100 points, you will be able to use the special Island Scan. With the limit, this essentially means you can do one island scan a day. There are some special QR Codes, such as those obtained from the arcade game, Pokémon Ga-Ole, which give 20 points per scan rather than 10."</string>
+    <string name="desc2_header">Sharing Pokémon</string>
+    <string name="desc2_body">"QR Codes are very simple to find. When you are on a Pokémon's Pokédex page and you have caught it, you have the ability to view the Pokémon's QR Code. From there, you can scan it with another 3DS to allow for the Pokémon to be registered as Seen. Each form and even Shiny variants have got their own QR code and scanning them will add the form as seen in your Pokédex, even if you have yet to encounter that form in the game.\n\n Legendary Pokémon, Mythical Pokémon and certain other special Pokémon such as Type: Null do not allow for the sharing of the QR Code."</string>
+    <string name="desc3_header">Island Scan</string>
+    <string name="desc3_body">"Whenever you have 100 Points accrued from scanning QR Codes, you can use the Island Scan. This feature will scan the island you're currently on for a wild Pokémon. The Pokémon you will discover here are not from the Alola Pokédex and include the starters from Johto and Unova. When the Island Scan is done, you will have 1 hour to find the Pokémon. The Pokémon change each day and each Pokémon only appears on a certain day.\n\n Each Pokémon has got a specific location so all you need to do is go to that area. Then, when in that area, the Pokémon has a chance of appearing in the grass there. Capture it and the Island Scan will be over. These Pokémon will not activate S.O.S. Battles. These Pokémon are also special in that they will have one of their Egg Moves."</string>
+    <string name="about">About</string>
+    <string name="others">Others</string>
+    <string name="by_type">By Type</string>
+    <string name="desc4_header">Island Scan Pokémon</string>
+    <string name="desc4_body" translatable="false"><![CDATA[<div align="center">
+<h3>Melemele Island</h3>
+<ul>
+	<li>Monday - Totodile - Seaward Cave</li>
+	<li>Tuesday - Deino - Ten Carat Hill</li>
+	<li>Wednesday - Horsea - Kala&#39;e Bay</li>
+	<li>Thursday - Klink - Hau&#39;oli City</li>
+	<li>Friday - Chikorita - Route 2</li>
+	<li>Saturday - Litwick - Hau&#39;oli Cemetery</li>
+	<li>Sunday - Cyndaquil - Route 3</li>
+</ul>
+<h3>Akala Island</h3>
+<ul>
+	<li>Monday - Spheal - Route 7</li>
+	<li>Tuesday - Luxio - Route 8</li>
+	<li>Wednesday - Honedge - Akala Outskirts</li>
+	<li>Thursay - Venipede -</li>
+	<li>Friday - Bellsprout - Route 5</li>
+	<li>Saturday - Marill - Brooklet Hill</li>
+	<li>Sunday - Gothita - Route 6</li>
+</ul>
+<h3>UlaUla Island</h3>
+<ul>
+	<li>Monday - Swinub -</li>
+	<li>Tuesday - Duosion - Route 16</li>
+	<li>Wednesday - Roselia - UlaUla Meadow</li>
+	<li>Thursday - Staravia - Route 10</li>
+	<li>Friday - Vigoroth -</li>
+	<li>Saturday - Axew - Mount Hokulani</li>
+	<li>Sunday - Rhyhorn -</li>
+</ul>
+<h3>Poni Island</h3>
+<ul>
+	<li>Monday - Conkeldurr -</li>
+	<li>Tuesday - Togekiss - Poni Gauntlet</li>
+	<li>Wednesday - Leavanny - Poni Meadows</li>
+	<li>Thursday - Serperior -</li>
+	<li>Friday - Samurott -</li>
+	<li>Saturday - Emboar -</li>
+	<li>Sunday - Elektross -</li>
+</ul>
+</div>
+]]></string>
+    <string name="abilities_information">Ability</string>
+    <string name="legend">Legend</string>
+    <string name="male_gender_pokemon">Male Gender Pokémon</string>
+    <string name="female_gender_pokemon">Female Gender Pokemon</string>
+    <string name="shiny_pokemon">Shiny Pokémon</string>
+    <string name="not_yet_scanned_tap_to_mark_as_scanned">Not yet scanned. Tap to mark as scanned</string>
+    <string name="already_scanned">Already Scanned</string>
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-7800821572802910/5971839584</string>
+</resources>

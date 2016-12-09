@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pokedex QR Codes</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="background_image">Imagen de Fondo</string>
+    <string name="for_pokemon_sun_moon">Para Pokémon Sol/Luna</string>
+    <string name="loading_please_wait">Favor esperar mientras carga!</string>
+    <string name="loading_title">Cargando</string>
+    <string name="my_blog">Mi Blog</string>
+    <string name="navigate_menu">Puedes usar el menu de la izquierda para navegar el Pokedex</string>
+    <string name="navigation_drawer_close">Cerrar menu</string>
+    <string name="navigation_drawer_open">Abrir menu</string>
+    <string name="pokedex_qr_codes">Codigos QR</string>
+    <string name="pokemon_qr_codes">Codigos QR</string>
+    <string name="qr_code">Codigo QR</string>
+    <string name="search">Buscar</string>
+    <string name="search_hint">Pikachu Brillante</string>
+    <string name="search_results">Resultados</string>
+    <string name="search_title">Buscar Pokemon</string>
+    <string name="share_text">Obten todos los Codigos QR de Pokemon Sol/Luna!  https://play.google.com/store/apps/details?id=com.leonelatencio.pokedexqr</string>
+    <string name="share_this_app">Comparte esta App!</string>
+    <string name="welcome_text">Bienvenido al Pokedex de Alola</string>
+    <string name="location_information">Ubicación</string>
+    <string name="location_missing">No se dispone de ubicación todavia.</string>
+    <string name="stats_information">Estadísticas</string>
+    <string name="stats_missing">No Stats Available</string>
+    <string name="notes_information">Notas adicionales</string>
+    <string name="notes_missing">Notas no disponibles…</string>
+    <string name="desc1_header">Lector QR</string>
+    <string name="others">Otros</string>
+    <string name="desc3_header">Escaneo Insular</string>
+    <string name="desc3_body">\"Siempre que tengas 100 Puntos acumulados de escanear Códigos QR, puedes usar el Explorador de la Isla. Esta característica escaneará la isla en la que estás actualmente para un Pokémon salvaje Los Pokémon que descubrirás aquí no son de la Alola Pokédex e incluyen el Los iniciadores de Johto y Unova.Cuando el Explorador de la Isla se hace, usted tendrá 1 hora para encontrar el Pokémon.El Pokémon cambia cada día y cada Pokémon sólo aparece en un día dtonces, cuando en esa área, el Pokémon tiene una oportunidad de aparecer en la hierba allí. Capturarlo y el Explorador de la Isla habrá terminado. Estos Pokémon no activarán S.O.S. Batallas Estos Pokémon también son especiales en que tendrán uno de sus Movimientos de Huevo \".eterminado.\\n\\nCada Pokémon tiene un lugar específico por lo que todo lo que necesitas hacer es ir a esa zona. En</string>
+    <string name="desc2_header">Compartir Pokemon</string>
+    <string name="desc2_body">\"Los códigos QR son muy simples de encontrar Cuando estás en la página Pokédex de un Pokémon y lo has capturado, tienes la posibilidad de ver el código QR de Pokémon, desde donde puedes escanearlo con otro 3DS para permitir que los Pokémon Se registran como Seen Cada forma e incluso variantes brillantes tienen su propio código QR y escaneándolos agregará el formulario como se ve en su Pokédex, incluso si todavía tiene que encontrarse con esa forma en el juego.\n\n  Pokémon legendario, Pokémon mítico y ciertos otros Pokémon especiales como Tipo: Nulo no permiten compartir el código QR \".</string>
+    <string name="desc1_body">\"El lector de QR es una nueva característica que se puede encontrar en el menú principal del juego. Aquí, puede escanear varios códigos QR y agregar el Pokémon como \'Visto\' en su Pokédex. Sin embargo, no puede simplemente escanear cada uno Código QR al instante. En cambio, una exploración regenera 1 cada 2 horas, y el juego almacena hasta 10 exploraciones para que pueda utilizar en cualquier momento.Todos los códigos QR que existen pueden ser escaneados por el juego, Usted un Pokémon al azar a su Pokédex.\n\n  Cuando escanee un código QR, obtendrá 10 puntos y por cada 100 puntos, podrá utilizar el escáner especial de la isla. Con el límite, esto significa esencialmente que usted puede hacer una exploración de la isla al día. Hay algunos códigos QR especiales, como los obtenidos del juego de arcade, Pokémon Ga-Ole, que dan 20 puntos por exploración en lugar de 10. \"</string>
+    <string name="about">Guia</string>
+    <string name="desc4_header">Pokémon de Escaneo Insular</string>
+    <string name="by_type">por tipo</string>
+    <string name="abilities_information">Habilidad</string>
+    <string name="shiny_pokemon">Pokémon brillante</string>
+    <string name="not_yet_scanned_tap_to_mark_as_scanned">Todavía no se ha escaneado. Puntee para marcar como escaneado</string>
+    <string name="male_gender_pokemon">Pokémon Masculino</string>
+    <string name="legend">Leyenda</string>
+    <string name="female_gender_pokemon">Pokémon Femenino</string>
+    <string name="already_scanned">Ya escaneado</string>
+</resources>

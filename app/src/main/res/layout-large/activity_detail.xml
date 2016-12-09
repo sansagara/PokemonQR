@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/DetailScroll"
+    tools:context="com.leonelatencio.pokedexqr.PokemonDetail">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/activity_detail">
+
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/scanned"
+                android:layout_gravity="end"
+                android:drawableRight="@drawable/pokeball_big"
+                android:drawableEnd="@drawable/pokeball_big"
+                android:layout_margin="1dp"
+                android:onClick="addToScanned"/>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:layout_centerHorizontal="true"
+                    android:orientation="horizontal"
+                    android:id="@+id/number_name">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/pokemon_number"
+                        android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+                        android:textStyle="normal|bold" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="1dp"
+                        android:layout_marginStart="1dp"
+                        android:id="@+id/pokemon_name"
+                        android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+                        android:textStyle="normal" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="1dp"
+                        android:layout_marginStart="1dp"
+                        android:id="@+id/shiny_badge" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="1dp"
+                        android:layout_marginStart="1dp"
+                        android:id="@+id/gender_badge" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_below="@+id/number_name"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="200dp"
+                        android:layout_height="200dp"
+                        android:layout_margin="5dp"
+                        android:id="@+id/pokemon_pic" />
+
+                    <ImageView
+                        android:layout_width="200dp"
+                        android:layout_height="200dp"
+                        android:layout_margin="5dp"
+                        android:id="@+id/pokemon_qr" />
+                </LinearLayout>
+
+            </RelativeLayout>
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:text="@string/location_information"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/location_header"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+                    android:textAlignment="center"
+                    android:gravity="center_horizontal"
+                    android:layout_centerHorizontal="true"
+                    android:textStyle="normal|bold" />
+
+                <TextView
+                    android:text="@string/location_missing"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/location_body"
+                    android:layout_below="@+id/location_header"
+                    android:layout_marginBottom="5dp"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+                    android:textAlignment="center"
+                    android:gravity="center_horizontal"
+                    android:layout_centerHorizontal="true" />
+
+            </RelativeLayout>
+        </android.support.v7.widget.CardView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <android.support.v7.widget.CardView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:onClick="showStatsDetails"
+                android:layout_weight="0.5"
+                android:layout_margin="5dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        android:text="@string/stats_information"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/stats_header"
+                        android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+                        android:textAlignment="center"
+                        android:gravity="center_horizontal"
+                        android:layout_centerHorizontal="true"
+                        android:textStyle="normal|bold" />
+
+                    <TextView
+                        android:text="@string/stats_missing"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="5dp"
+                        android:id="@+id/stats_body"
+                        android:layout_below="@+id/stats_header"
+                        android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+                        android:textAlignment="center"
+                        android:gravity="center_horizontal"
+                        android:layout_centerHorizontal="true" />
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_weight="0.5">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        android:text="@string/abilities_information"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/abilities_header"
+                        android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+                        android:textAlignment="center"
+                        android:gravity="center_horizontal"
+                        android:layout_centerHorizontal="true"
+                        android:textStyle="normal|bold" />
+
+                    <TextView
+                        android:text="@string/stats_missing"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="5dp"
+                        android:id="@+id/abilities_body"
+                        android:layout_below="@+id/abilities_header"
+                        android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+                        android:textAlignment="center"
+                        android:gravity="center_horizontal"
+                        android:layout_centerHorizontal="true" />
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+        </LinearLayout>
+
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:text="@string/notes_information"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/notes_header"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+                    android:textAlignment="center"
+                    android:gravity="center_horizontal"
+                    android:layout_centerHorizontal="true"
+                    android:textStyle="normal|bold" />
+
+                <TextView
+                    android:text="@string/notes_missing"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/notes_body"
+                    android:layout_below="@+id/notes_header"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+                    android:textAlignment="center"
+                    android:layout_marginBottom="5dp"
+                    android:gravity="center_horizontal"
+                    android:layout_centerHorizontal="true" />
+
+            </RelativeLayout>
+        </android.support.v7.widget.CardView>
+
+        <com.google.android.gms.ads.AdView
+            android:id="@+id/adView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            ads:adSize="BANNER"
+            ads:adUnitId="@string/banner_ad_unit_id">
+        </com.google.android.gms.ads.AdView>
+    </LinearLayout>
+</ScrollView>

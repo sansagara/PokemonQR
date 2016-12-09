@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pokedex QR-Codes</string>
+    <string name="welcome_text">Willkommen in der Alolan Region Pokedex</string>
+    <string name="share_this_app">Teile diese App</string>
+    <string name="share_text">Erhalten Sie alle Pokemon QR Codes für Sonne / Mond  https://play.google.com/store/apps/details?id=com.leonelatencio.pokedexqr</string>
+    <string name="search_title">Suche</string>
+    <string name="search">Suche</string>
+    <string name="search_hint">Shiny Pikachu</string>
+    <string name="search_results">Suchergebnisse</string>
+    <string name="qr_code">QR-Code</string>
+    <string name="pokemon_qr_codes">Pokemon QR-Codes</string>
+    <string name="pokedex_qr_codes">Pokemon QR-Codes</string>
+    <string name="navigation_drawer_open">Menü öffnen</string>
+    <string name="navigation_drawer_close">Menü schließen</string>
+    <string name="navigate_menu">Verwenden Sie das linke Menü, um zu navigieren</string>
+    <string name="my_blog">Mein Blog</string>
+    <string name="location_missing">Es ist noch kein Ort verfügbar.</string>
+    <string name="location_information">Lageinformationen</string>
+    <string name="loading_title">Laden</string>
+    <string name="loading_please_wait">Laden, bitte warten</string>
+    <string name="for_pokemon_sun_moon">Für Pokemon Sonne / Mond</string>
+    <string name="background_image">Hintergrundbild</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="stats_information">Statistics</string>
+    <string name="stats_missing">No Stats Available</string>
+    <string name="notes_information">Additional Notes</string>
+    <string name="notes_missing">Notes not available…</string>
+    <string name="desc1_header">QR-Scanner</string>
+    <string name="others">Andere</string>
+    <string name="desc3_header">Insel-Scan</string>
+    <string name="desc3_body">\"Immer wenn ihr 100 Punkte aus dem Scannen von QR-Codes habt, könnt ihr den Island-Scan nutzen, um die Insel, die ihr momentan für ein wildes Pokémon seht, zu scannen Starter von Johto und Unova.Wenn der Island Scan fertig ist, hast du 1 Stunde Zeit, um das Pokémon zu finden.Die Pokémon wechseln jeden Tag und jedes Pokémon erscheint nur an einem bestimmten Tag. \\n\\nJedes Pokémon hat eine bestimmte Position, also alles, das Sie tun müssen, ist, zu diesem Bereich zu gehen. Dann, wenn in diesem Bereich, die Pokémon hat eine Chance, dort im Gras gibt. Capture es und die Insel-Scan wird vorbei sein. Diese Pokémon aktivieren nicht S.O.S. Schlachten. Diese Pokémon sind auch besonders darin, dass sie einen ihrer Egg Moves haben werden. \"</string>
+    <string name="desc2_header">Teilen Pokemon</string>
+    <string name="desc2_body">\"QR-Codes sind sehr einfach zu finden.Wenn Sie auf einer Pokémon-Pokédex-Seite sind und Sie haben es gefangen, haben Sie die Möglichkeit, die QR-Code des Pokémon zu sehen.Sie können es mit einem anderen 3DS scannen, um das Pokémon zu ermöglichen Werden als Seen registriert.Jede Form und sogar Shiny-Varianten haben ihre eigenen QR-Code und scannen sie wird das Formular wie in Ihrem Pokédex zu sehen, auch wenn Sie noch zu diesem Formular im Spiel begegnen.\n\n Legendäre Pokémon, Mythisches Pokémon und bestimmte andere spezielle Pokémon wie zB Typ: Null erlauben nicht das Teilen des QR-Codes. \"</string>
+    <string name="desc1_body">\"Der QR-Scanner ist ein neues Feature, das im Hauptmenü des Spiels zu finden ist: Hier können Sie verschiedene QR-Codes scannen und das Pokémon als \'Seen\' hinzufügen QR-Code sofort.Stattdessen regeneriert ein Scan alle 2 Stunden und das Spiel speichert bis zu 10 Scans für Sie zu einem beliebigen Zeitpunkt zu verwenden.Alle QR-Codes, die vorhanden sind, können durch das Spiel gescannt werden, als Wonder Codes gelesen und geben Sie ein zufälliges Pokémon zu Ihrem Pokédex.\n\n  Wenn Sie einen QR-Code scannen, erhalten Sie 10 Punkte und für alle 100 Punkte können Sie den speziellen Island Scan nutzen. Mit der Grenze, bedeutet dies im Wesentlichen, dass Sie einen Insel-Scan pro Tag tun können. Es gibt einige spezielle QR-Codes, wie diejenigen, die aus dem Arcade-Spiel, Pokémon Ga-Ole, die 20 Punkte pro Scan anstelle von 10. \"</string>
+    <string name="about">Wie man</string>
+    <string name="desc4_header">Insel-Scan Pokémon</string>
+    <string name="by_type">nach typ</string>
+    <string name="abilities_information">Fähigkeit</string>
+    <string name="shiny_pokemon">Glänzendes Pokemon</string>
+    <string name="not_yet_scanned_tap_to_mark_as_scanned">Noch nicht gescannt. Tippen Sie zum Markieren als gescannt</string>
+    <string name="male_gender_pokemon">Männliches Geschlecht Pokémon</string>
+    <string name="legend">Legende</string>
+    <string name="female_gender_pokemon">Weiblich Geschlecht Pokémon</string>
+    <string name="already_scanned">Bereits gescannt</string>
+</resources>

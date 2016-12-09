@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "955190591418",
+    "firebase_url": "https://pokemonqr-17f85.firebaseio.com",
+    "project_id": "pokemonqr-17f85",
+    "storage_bucket": "pokemonqr-17f85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955190591418:android:fe8fb3c777a484b2",
+        "android_client_info": {
+          "package_name": "com.leonelatencio.pokedexqr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955190591418-t5vuglqjv2fcj49voo5j1cmmmuiecsng.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.leonelatencio.pokedexqr",
+            "certificate_hash": "96603DA94353BDE0373E9FB5584E94A300533B21"
+          }
+        },
+        {
+          "client_id": "955190591418-rjcrg8p0dvcj6tfo5dv5takhlicbvgrc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZK-EcC1P-lFdI_w-gb_lmeVT9w5qumFU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955190591418-rjcrg8p0dvcj6tfo5dv5takhlicbvgrc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

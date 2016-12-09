@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pokedex QR Codes</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="background_image">Image de fond</string>
+    <string name="for_pokemon_sun_moon">Pour Pokémon Soleil / Lune</string>
+    <string name="loading_please_wait">Veuillez patienter pendant le chargement des données!</string>
+    <string name="loading_title">Chargement en cours..</string>
+    <string name="location_information">Informations de localisation</string>
+    <string name="location_missing">Il n\'y a pas d\'emplacement disponible pour le moment.</string>
+    <string name="my_blog">Mon blog</string>
+    <string name="navigate_menu">Vous pouvez utiliser le menu de gauche pour naviguer dans le Pokedex</string>
+    <string name="navigation_drawer_close">Fermer le menu</string>
+    <string name="navigation_drawer_open">Ouvrir le menu</string>
+    <string name="pokedex_qr_codes">Codes QR</string>
+    <string name="pokemon_qr_codes">Codes QR</string>
+    <string name="qr_code">QR Code</string>
+    <string name="search">Chercher</string>
+    <string name="search_hint">Shiny Pikachu</string>
+    <string name="search_results">Résultats de la recherche</string>
+    <string name="search_title">Chercher Pokemon</string>
+    <string name="share_text">Obtenez tous les codes QR de Pokemon pour Sun / Moon!  https://play.google.com/store/apps/details?id=com.leonelatencio.pokedexqr</string>
+    <string name="share_this_app">Partager cette appli!</string>
+    <string name="welcome_text">Bienvenue dans la Alola région Pokedex</string>
+    <string name="stats_information">Statistics</string>
+    <string name="stats_missing">No Stats Available</string>
+    <string name="notes_information">Additional Notes</string>
+    <string name="notes_missing">Notes not available...</string>
+    <string name="desc1_header">Scanner QR</string>
+    <string name="others">Autres</string>
+    <string name="desc3_header">Island Scan</string>
+    <string name="desc3_body">\"Si vous avez 100 points accumulés lors de la numérisation des codes QR, vous pouvez utiliser l\'explorateur d\'îlots, ce qui permettra de scanner l\'île où vous vous trouvez présentement pour un Pokémon sauvage.Les Pokémon que vous découvrirez ici ne proviennent pas de l\'Alola Pokédex. Les Pokémon changent chaque jour et chaque Pokémon n\'apparaît que sur un jour donné. \\n\\nChaque Pokémon a un emplacement spécifique donc tout ce que vous devez faire est d\'aller dans cette zone. Puis, quand dans cette zone, le Pokémon a une chance d\'apparaître dans l\'herbe là-bas. Capturez-le et l\'analyse de l\'île sera terminée. Ces Pokémon n\'active pas S.O.S. Batailles. Ces Pokémon sont également spéciaux en ce sens qu\'ils auront un de leurs Egg Moves. \"</string>
+    <string name="desc2_header">Partage de Pokemon</string>
+    <string name="desc2_body">Si vous êtes sur la page Pokédex d\'un Pokémon et que vous l\'avez capturé, vous avez la possibilité de voir le QR Code de Pokémon. De là, vous pouvez le numériser avec un autre 3DS pour permettre aux Pokémon de Être enregistré comme Seen.Chaque formulaire et même les variantes Shiny ont leur propre code QR et de numérisation, ils ajouteront le formulaire comme vu dans votre Pokédex, même si vous n\'avez pas encore rencontrer cette forme dans le jeu.\n\n Pokémon légendaire, Pokémon mythique et certains autres Pokémon spéciaux comme Type: Null ne permettent pas le partage du QR Code. \"</string>
+    <string name="desc1_body">\"Le QR Scanner est une nouvelle fonctionnalité qui peut être trouvée dans le menu principal du jeu. Ici, vous pouvez numériser différents codes QR et ajouter le Pokémon comme« vu »sur votre Pokédex. QR code instantanément.Un scénario régénère 1 fois toutes les 2 heures, et le jeu stocke jusqu\'à 10 balayages pour que vous puissiez utiliser à tout moment.Tous les codes QR qui existent peuvent être scannés par le jeu, étant lues comme Wonder Codes et donnant Vous un Pokémon aléatoire à votre Pokédex.\n\n  Lorsque vous numérisez un code QR, vous obtiendrez 10 points et pour chaque 100 points, vous pourrez utiliser le scan Island spécial. Avec la limite, cela signifie essentiellement que vous pouvez faire un scan île par jour. Il existe des QR Codes spéciaux, tels que ceux obtenus à partir du jeu d\'arcade, Pokémon Ga-Ole, qui donnent 20 points par scan plutôt que 10. \"</string>
+    <string name="about">Comment</string>
+    <string name="desc4_header">Pokémon de balayage d\'île</string>
+    <string name="by_type">par type</string>
+    <string name="abilities_information">Capacité</string>
+    <string name="shiny_pokemon">Pokémon brillant</string>
+    <string name="not_yet_scanned_tap_to_mark_as_scanned">Pas encore balayé. Appuyez pour marquer comme numérisé</string>
+    <string name="male_gender_pokemon">Pokémon Sexe Homme</string>
+    <string name="legend">Légende</string>
+    <string name="female_gender_pokemon">Pokémon Sexe Féminin</string>
+    <string name="already_scanned">Déjà scanné</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        
+        <item
+        android:id="@+id/nav_pokemon"
+        android:icon="@drawable/qrcode"
+        android:title="@string/pokemon_qr_codes" />
+
+        <item
+            android:id="@+id/about"
+            android:icon="@drawable/help_circle_outline"
+            android:title="@string/about" />
+							
+    </group>
+
+    <item android:title="@string/others">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/share_this_app" />
+            <item
+                android:id="@+id/nav_apiplug"
+                android:icon="@drawable/blogger"
+                android:title="@string/my_blog" />
+        </menu>
+    </item>
+
+</menu>

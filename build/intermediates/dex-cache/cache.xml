@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="05376499c7412faab3030dab96739b7fd46149ab">
+        <dex dex="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_78544cad3f29720d334b82b01db03c30bfc9edb4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonel\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.0-beta3\8bff75d7360aaa3866f1e6949c877dfcc2b3d3e2\converter-gson-2.0.0-beta3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8bff75d7360aaa3866f1e6949c877dfcc2b3d3e2">
+        <dex dex="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.0-beta3_4e7fc63d180fd1c64231c4b629ecb0a450e57e6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_3c6906851b5d53a85cf0dd4bde023b17007291ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_6a637bb009a986570bbf8b20d7344211d7144dd0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonel\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_b45e6b3e056c6ae2459bb575c664f0b6b5ef6089\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_d0e0e7dd897f436d38ce0ade0d23c1ae13d6869e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_5d650f009643785e88c1e9d23739eb85bd253323\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_79105e764e5589a50946d9b8d36b9386eba58e23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_d83c0954291bf88c30a30ae7e1c60ba4248c1604\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_e1ef4d0f7e78fca8b7445fef2424d179122076a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonel\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.2.0\a56f28d5b7fab623c6c1d2afa08dd496d873ac21\logging-interceptor-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a56f28d5b7fab623c6c1d2afa08dd496d873ac21">
+        <dex dex="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.2.0_4fe05a3116db006656e17a5ad6b2f0874505c521\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_448062a8ef833fc93e3d90518505947f2bc2a613\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_624fef1ad11ca76078829b2756eb1d5066476b5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_6361cf51d03199fa710189bd099cf3bc43fe3f3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_530e05def2813261e55e8fbe94bf544111417c35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_4c4106b7183564305728224f3b9ebeb6167339ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_9e0eb5a3c4c39bee96f8d53df0f606fd7627d5c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_1b2f76da6d44c2b7822b0b451029e0122c269ef8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_f32e6fe051b20f2b22d3acd40295bcc1744766b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonel\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.1\27293c440d2085cde1d859528aff6e7d3b6ae40\retrofit-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="027293c440d2085cde1d859528aff6e7d3b6ae40">
+        <dex dex="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.1_1c5fb149d7cf741a6b297f8cfc256b8b196adbaa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_0442950299156030e438cce523aeda95bfe7c38b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_20dd9198ac536d41ecd2fbe56ed6e49016c0cd8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9d84d59d388cadcb1646150c32ee23379550058c">
+        <dex dex="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_14c0006c4ef67bf617800faa3b0b84c618d34628\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonel\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_53213f96e99d2809c591b3a812a58aef8feed1d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonel\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_38c1aa2b9530bf5cff529c60eaf15587daece705\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonel\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.4_b19dde278ac9d9f3e287f2fb029c92a44b58af96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonel\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_fe651055a12aac93ad814b3b581a6e23b58f9f12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_99d7edd176b1528804de284c223b5afc28f0569b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_3dd0257ade7bf742bcf52345f9c5a6cd4e89cda8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Leonel\Projects\PokemonQR2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_d654d4d1061814de85617a87372fedf907bd6615\classes.dex" />
+    </item>
+
+</items>
